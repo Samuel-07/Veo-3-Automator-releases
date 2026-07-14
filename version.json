@@ -1,8 +1,9 @@
 {
-    "app_version": "2.0.34",
-    "app_download_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.34/CreatorFlowOS.zip",
-    "app_installer_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.34/CreatorFlowOSSetup.exe",
-    "extension_version": "2.0.34",
-    "extension_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.34/veo3-automator.zip",
-    "changelog": "Auto-published update. App version: 2.0.34, Extension version: 2.0.34"
+    "app_version": "2.0.51",
+    "app_download_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.51/CreatorFlowOS.zip",
+    "app_sha256": "2492efd4be2755a3921d66720003cf47cdf7b6cb871e9d4bea93a9f2d3613ab8",
+    "extension_version": "2.0.51",
+    "extension_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.51/veo3-automator.zip",
+    "extension_sha256": "451aeb998ec85e6afc67552d717e68c84ffe56a43175f0a4e6ab6182c00573bd",
+    "changelog": "GitHub automated release. App: 2.0.51, Ext: 2.0.51"
 }
