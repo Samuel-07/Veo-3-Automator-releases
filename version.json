@@ -1,9 +1,9 @@
 {
-    "app_version": "2.0.52",
-    "app_download_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.52/CreatorFlowOS.zip",
-    "app_sha256": "0c55337835c929ea8e95521fdb1d260a42caf0d2913b84bb1b07ba93000ab6d7",
+    "app_version": "2.0.54",
+    "app_download_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.54/CreatorFlowOS.zip",
+    "app_sha256": "fddadd052815f1f2c41dee5e3656a9541596dfca4be8c1dbfd32b6c9320c2da5",
     "extension_version": "2.0.52",
     "extension_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.52/veo3-automator.zip",
     "extension_sha256": "5f460ee57d55f6b90dce86ffce0f77cee6ac2798ad2b032143ff6b05adbca625",
-    "changelog": "GitHub automated release. App: 2.0.52, Ext: 2.0.52"
+    "changelog": "Modo manual de recortes (estilo Crossclip), fase 2 gameplay clipper (candidatos hibridos, facecam auto, perfiles por juego) y hardening de seguridad (DPAPI, hashing local_db, CORS restrictivo)."
 }
