@@ -1,9 +1,9 @@
 {
-    "app_version": "2.0.54",
-    "app_download_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.54/CreatorFlowOS.zip",
-    "app_sha256": "fddadd052815f1f2c41dee5e3656a9541596dfca4be8c1dbfd32b6c9320c2da5",
+    "app_version": "2.0.55",
+    "app_download_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.55/CreatorFlowOS.zip",
+    "app_sha256": "27bd7215c8ee8a9e7cdffaadbe4bf1259c8887f82aecb7f59bf41f9a71314f61",
     "extension_version": "2.0.52",
     "extension_url": "https://github.com/Samuel-07/Veo-3-Automator-releases/releases/download/v2.0.52/veo3-automator.zip",
     "extension_sha256": "5f460ee57d55f6b90dce86ffce0f77cee6ac2798ad2b032143ff6b05adbca625",
-    "changelog": "Modo manual de recortes (estilo Crossclip), fase 2 gameplay clipper (candidatos hibridos, facecam auto, perfiles por juego) y hardening de seguridad (DPAPI, hashing local_db, CORS restrictivo)."
+    "changelog": "Fix de facecam en Anti-Monetizacion (no se congela con fallos puntuales del detector; banda superior recortada desde la webcam real, sin gameplay de fondo ni halos) y nuevo selector 'Calidad de export' (Alta/Equilibrada/Ligera) para controlar el peso del export en videos largos."
 }
